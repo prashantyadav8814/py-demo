@@ -1,2 +1,2 @@
 # py-demo
-Accuring Git knowledge
+Accuring Git knowledge (description)
